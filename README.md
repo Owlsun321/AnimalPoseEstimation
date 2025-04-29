@@ -25,12 +25,6 @@ AnimalPose is a prompt-based keypoint detection framework that supports both tex
    python setup.py build install
    ```
 
-4.Run
-
-```
-python test.py
-```
-
 ## 2.Input Video Processing
 
 Assume you have a video of a pet moving left and right. You can process it to generate frames as follows:
