@@ -1,0 +1,3 @@
+config_file: "algorithm/core/config/UniPose_SwinT.py"
+checkpoint_path: "algorithm/core/weights/Unipose_swint.pth"
+
